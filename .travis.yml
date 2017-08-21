@@ -2,7 +2,7 @@ language: python
 sudo: false
 cache: false
 python:
-    - '3.5'
+    - '3.5.1'
 env:
   global:
     PYTHONUNBUFFERED=yes
